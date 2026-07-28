@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Scanner & Tracker",
+  "description": "Scan invoices from photos using Gemini AI, track items as goods or services, filter, group, and export to Excel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
